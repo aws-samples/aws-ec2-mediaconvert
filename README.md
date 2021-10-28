@@ -1,5 +1,4 @@
 ## MediaConvert with EC2
-aws-ec2-mediaconvert
 This example shows how to set up EC2 instance to create mediaconvert job and CI/CD Pipeline.
 
 
@@ -9,7 +8,6 @@ This example shows how to set up EC2 instance to create mediaconvert job and CI/
 - Make sure you have [AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/install-cliv2.html) installed and configured with an aws account you want to use.
 - Ensure you have [nodejs](https://nodejs.org) installed.
 - Ensure you have [direnv](https://direnv.net) installed.
-- Ensure you have [AWS MediaConvert](https://docs.aws.amazon.com/mediaconvert/latest/ug/getting-started.html) set up.
 
 ### install cdk
 ```shell
